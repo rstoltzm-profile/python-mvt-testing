@@ -1,0 +1,27 @@
+# Ignore virtual environment folder
+mvt_env/
+
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# IDE-specific files
+.vscode/
+.idea/
