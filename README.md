@@ -3,9 +3,11 @@
 ## Set Up Environment
 
 ```
-python -m venv mvt_env
-cd mvt_env
+git clone <repository-url>
+cd python-mvt-testing
+python3 -m venv mvt_env
 source mvt_env/bin/activate
+python main.py
 ```
 
 ## Testing MVT
