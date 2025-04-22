@@ -18,6 +18,9 @@ source mvt_env/bin/activate
 7. Implement the best combination in the final product
 
 ## Example
+### Experiment
 ![experiment](images/experiment.png)
+### Data Collection and Analysis
 ![analysis](images/analysis.png)
+### Results
 ![results](images/results.png)
